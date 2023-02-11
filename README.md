@@ -1,11 +1,14 @@
 # Airbnb-Exploratory-Data-Analysis--AlMA
 **Introduction**
+
 In order to learn more about the characteristics of the listings, the demand for various kinds of properties, and the variables that affect pricing, this project will perform an Exploratory Data Analysis (EDA) of AirBnB bookings. Both AirBnB hosts and guests, as well as politicians and researchers who are interested in the sharing economy, can benefit from the conclusions drawn from this analysis.
 
 **Data**
+
 The dataset used in this project contains information on AirBnb listings in a particular city, including features such as the type of property, number of bedrooms, number of bathrooms, and price. The data has been preprocessed and cleaned to handle missing values.
 
 **Analysis**
+
 Exploratory Data Analysis (EDA) is used by the project to comprehend the data and spot patterns and trends.
 
 To depict the distribution of various variables and their correlations, the EDA uses visualisations including histograms, bar charts, heatmaps and scatter plots. In order to find significant variations across sets of observations, statistical tests are also included in the study.
