@@ -13,11 +13,12 @@ To depict the distribution of various variables and their correlations, the EDA 
 **Dependencies**
 The project requires the following dependencies to be installed:
 
-Python 3.0
-pandas
-numpy
-matplotlib
-plotly
+* Python 3.0
+* pandas
+* numpy
+* matplotlib
+* plotly
+
 **Usage**
 Clone or download the repository
 Install the required dependencies
