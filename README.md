@@ -20,10 +20,10 @@ The project requires the following dependencies to be installed:
 * plotly
 
 **Usage**
-Clone or download the repository
-Install the required dependencies
-Run the command jupyter notebook to open the jupyter notebook
-Open the notebook AirBnb_Booking_Analysis.ipynb to see the analysis
+* Clone or download the repository
+* Install the required dependencies
+* Open the notebook AirBnb_Booking_Analysis.ipynb to see the analysis
+
 **Conclusion**
 * The qualities of the listings, the demand for various types of properties, and the variables that affect pricing can all be learned by exploratory data analysis of   AirBnB reservations.
 
